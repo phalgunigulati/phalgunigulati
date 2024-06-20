@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning development tools
 - 📫 How to reach me phalgunigulati@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to express my ideas through paint strokes
+- ⚡ Fun fact: I express my ideas through each paint stroke
 
 <!---
 phalgunigulati/phalgunigulati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
