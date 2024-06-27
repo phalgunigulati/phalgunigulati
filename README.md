@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phalgunigulati
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning development tools
+- 🌱 I’m currently learning Php and MySql
 - 📫 How to reach me phalgunigulati@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I express my ideas through painting
